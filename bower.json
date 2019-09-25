@@ -1,6 +1,6 @@
 {
   "name": "angular-service",
-  "homepage": "https://github.com/Jeff-Tian/angular-service",
+  "homepage": "https://github.com/monsoul/angular-service-bplus",
   "authors": [
     "jeff.tian@outlook.com"
   ],
@@ -23,6 +23,6 @@
     "tests"
   ],
   "devDependencies": {
-    "angular": "^1.5.5"
+    "angular": "^1.4.14"
   }
 }

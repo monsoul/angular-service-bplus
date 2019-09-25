@@ -1,6 +1,6 @@
 {
   "name": "angular-service",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "description": "Wrap $http to handle service's 200 OK error response.",
   "main": "dist/scripts/all.min.js",
   "dependencies": {},
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jeff-Tian/angular-service.git"
+    "url": "git+https://github.com/monsoul/angular-service-bplus.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jeff-Tian/angular-service/issues"
+    "url": "https://github.com/monsoul/angular-service-bplus/issues"
   },
-  "homepage": "https://github.com/Jeff-Tian/angular-service#readme"
+  "homepage": "https://github.com/monsoul/angular-service-bplus#readme"
 }
